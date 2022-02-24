@@ -8,3 +8,20 @@ Generating a clock signal for driving a digital clock and demonstrating the work
 3. Open that txt file and the circuit will be loaded to falstad
 
 Understand more about the circuits and their working by going through this [report](Elec_report.pdf)
+
+# Contributor
+<details>
+<summary> Anirudh Edpuganti</summary>
+
+ * <a href="https://github.com/ANIRUDH-333">Github</a>
+  
+ * <a href="https://www.facebook.com/anirudhedpuganti/">Facebook</a> 
+
+ * <a href="https://www.instagram.com/anirudhedpuganti/">Instagram</a>
+  
+ * <a href="https://www.linkedin.com/in/edpuganti-anirudh-4755b2205/">Linkedin</a>
+
+
+</details>
+
+  
